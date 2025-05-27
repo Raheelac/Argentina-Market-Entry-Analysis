@@ -4,7 +4,7 @@ This report evaluates the economic feasibility of expanding MNC Corp., a U.S.-ba
 
 ## 📌 Project Overview
 
-Argentina presents both opportunities and risks for business expansion. While the country benefits from a stable GDP per capita, high literacy rates, and strong human development indicators, it also faces substantial economic headwinds such as inflation, currency depreciation, and limited economic freedom.
+Argentina presents both opportunities and risks for business expansion. While the country benefits from a stable GDP per capita, high literacy rates and strong human development indicators, it also faces substantial economic headwinds such as inflation, currency depreciation and limited economic freedom.
 
 ## 🔍 Key Factors Analyzed
 
@@ -30,4 +30,4 @@ While Argentina has foundational strengths, the report concludes that due to the
 
 ## 📄 Full Report
 
-Please refer to the attached PDF [`Prospect Argentina Branch.pdf`](./Prospect%20Argentina%20Branch.pdf) for detailed data, charts, and references.
+Please refer to the attached PDF called Argentina Market Entry Analysis for detailed data, charts and references.
